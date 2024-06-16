@@ -7,3 +7,5 @@ xhofe/alist:latest
 ailg/alist:hostmode
 ailg/alist:latest
 emby/embyserver:latest
+ailg/ggbond:latest
+library/hello-world:latest
