@@ -10,3 +10,10 @@ emby/embyserver:latest
 ailg/ggbond:latest
 library/hello-world:latest
 ddsderek/xiaoya-emd
+jumpserver/lion:v4.0.0-ce
+redis:7.0-bullseye
+jumpserver/core:v4.0.0-ce
+postgres:16.3-bullseye
+jumpserver/web:v4.0.0-ce
+jumpserver/koko:v4.0.0-ce
+jumpserver/chen:v4.0.0-ce
