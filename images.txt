@@ -4,15 +4,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-ailg/alist:latest
-emby/embyserver:latest
-ailg/ggbond:latest
-library/hello-world:latest
-ddsderek/xiaoya-emd
-jumpserver/lion:v4.0.0-ce
-jumpserver/core:v4.0.0-ce
-jumpserver/web:v4.0.0-ce
-jumpserver/koko:v4.0.0-ce
-jumpserver/chen:v4.0.0-ce
-hectorqin/reader:latest
-youshandefeiyang/allinone
+youshandefeiyang/allinone:latest
