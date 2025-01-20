@@ -15,3 +15,4 @@ jumpserver/web:v4.0.0-ce
 jumpserver/koko:v4.0.0-ce
 jumpserver/chen:v4.0.0-ce
 hectorqin/reader:latest
+youshandefeiyang/allinone
