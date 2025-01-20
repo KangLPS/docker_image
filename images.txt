@@ -16,4 +16,4 @@ jumpserver/koko:v4.0.0-ce
 jumpserver/chen:v4.0.0-ce
 hectorqin/reader:latest
 herberthe0229/iptv-sources:latest
-youshandefeiyang/allinone
+youshandefeiyang/allinone:latest
